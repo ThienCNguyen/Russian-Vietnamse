@@ -1,2 +1,2 @@
 # Russian-Vietnamse
-Russian-Vietnamese News Commentary Parallel Corpus
+Neural machine translation for Russian-Vietnamese News Commentary Parallel Corpus
